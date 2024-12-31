@@ -11,7 +11,7 @@ A simple yet engaging game built using HTML, CSS, and JavaScript. The HoverBoard
 🚀 Live Demo
 
 
-Explore the game live here: HoverBoard Game
+Explore the game live here: [HoverBoard Game][deploy-link]
 
 
 🛠️ Features
@@ -58,4 +58,5 @@ Customizable:
 
 Easily tweak the CSS and JavaScript to add your own unique spin.
 
+[deploy-link]: https://krishnakumar287.github.io/HoverBoard-Game/
 
